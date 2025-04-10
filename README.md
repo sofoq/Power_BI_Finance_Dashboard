@@ -3,6 +3,10 @@
 ## 📁 Project Overview  
 This project is a comprehensive financial analysis dashboard built in Power BI, designed to help stakeholders understand the financial performance of a company through interactive visualizations and key financial KPIs. The report is structured across three main financial statements: Income Statement, Balance Sheet, and Cash Flow Statement.
 
+## 🔗 Live Demo  
+Check out the dashboard here: [Finance Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTczMzY2YTctYjk1NS00NDE4LWEzYzAtYmMwYTkxODAzZjZiIiwidCI6ImJkMGQ4ZDNmLTJjODYtNGRhMC04Y2FhLWZlNjFlNzNlNGQ5MyIsImMiOjEwfQ%3D%3D) 
+
+
 ## 📌 Dashboard Structure & Features
 
 ### 1. Income Statement
@@ -40,23 +44,6 @@ This project is a comprehensive financial analysis dashboard built in Power BI, 
 - Evaluates financial health through liquidity and solvency ratios  
 - Visualizes how cash moves through the business year-over-year  
 - Helps decision-makers identify patterns, assess risk, and plan strategically  
-
-## ⚙️ Tools & Techniques Used
-- **Power BI Features**:  
-  - Interactive Slicers and Filters  
-  - Relationships and Data Modeling  
-  - Time Intelligence functions for YoY analysis  
-- **DAX Functions** (sample):  
-  - `CALCULATE`, `DIVIDE`, `IF`, `SWITCH`, `DATEADD`, `SAMEPERIODLASTYEAR`, etc.  
-- **Visuals**:  
-  - Line Charts, Pie Charts, Waterfall Charts, and KPI Cards  
-
-## 📌 Next Steps
-- Add benchmarking metrics (e.g., industry average)  
-- Introduce forecasted values based on historical trends  
-- Enable drill-through for department-level or monthly insights  
-
-
 
 
 ## 📸 Screenshots  
