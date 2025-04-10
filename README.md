@@ -61,12 +61,13 @@ This project is a comprehensive financial analysis dashboard built in Power BI, 
 
 ## 📸 Screenshots  
 
-### Balance Sheet
-![Balance Sheet](https://github.com/sofoq/Power_BI_Finance_Dashboard/blob/main/Balance-Sheet.png)  
+### Balance Sheet  
+![Balance Sheet](https://github.com/sofoq/Power_BI_Finance_Dashboard/blob/main/Balance%20Sheet.png)  
 
 ### Cash Flow Statement  
-![Cash Flow Statement](https://github.com/sofoq/Power_BI_Finance_Dashboard/blob/main/Cash-Flow-Statement.png)  
+![Cash Flow Statement](https://github.com/sofoq/Power_BI_Finance_Dashboard/blob/main/Cash%20Flow%20Statement.png)  
 
 ### Income Statement  
-![Income Statement](https://github.com/sofoq/Power_BI_Finance_Dashboard/blob/main/Income-Statement.png)  
+![Income Statement](https://github.com/sofoq/Power_BI_Finance_Dashboard/blob/main/Income%20Statement.png)  
+
 
